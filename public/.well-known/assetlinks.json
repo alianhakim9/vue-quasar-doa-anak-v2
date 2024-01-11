@@ -1,0 +1,13 @@
+[
+  {
+    "relation": ["delegate_permission/common.handle_all_urls"],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "com.pelayananotomatis.doa.anak",
+      "sha256_cert_fingerprints": [
+        "F0:A4:FF:9E:78:1C:3B:D7:76:03:F9:B8:98:12:86:32:A9:4D:A5:23:A2:D9:79:DC:B7:25:24:A1:79:8C:5C:39",
+        "F5:67:30:CC:12:92:27:06:93:3F:19:E8:4B:65:6F:E4:FF:00:0F:45:4E:EB:D5:39:29:76:00:E6:15:3B:57:E6"
+      ]
+    }
+  }
+]
